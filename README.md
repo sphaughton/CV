@@ -71,14 +71,15 @@ Informed by a lifetime obsession with DIY punk counterculture, I have a restless
 </table>
 
 ## Other Skills
-#### Strong Teamwork
-* As a Care Support Worker for [St Martin of Tours] (http://www.stmartinoftours.org.uk), constant communication and handover meetings were essential. Staff had to be on the same page about outstanding tasks to be completed, potential dangers and problems, medication orders, safety and the needs of clients at all times.
-* Helped direct 30+ children ranging from 1 to 3 years old as a Nursery Assistant at [Clive Hall Day Nursery] (http://www.daynurseries.co.uk/daynursery.cfm/searchazref/50001005CLIA), which had to be a team of at least 2 people at all times.
 
 #### Excellent Communicator (Verbal/Written)
 * I have worked on numerous projects as a [freelance graphic designer] (http://seanhaughton.com), creating work designed based on the wishes of international clients.
 * Undertook a year-long apprenticeship in [Barbican’s theatre department] (http://www.barbican.org.uk/theatre), responding to the majority of the department’s customer feedback and complaints, liaising with our Marketing department to proofread and suggest changes to promotional material and regularly greeting visitors arriving to meet with the Head of Theatre.
 * Other duties at [Banquet Records] (http://www.banquetrecords.com) involved collecting tickets and helping stage-manage the various local club nights and instore performances, handling individual Facebook event queries and writing many of the product descriptions for the website. Much of the store’s brand relies on local community and knowing the staff by name.
+
+#### Strong Teamwork
+* As a Care Support Worker for [St Martin of Tours] (http://www.stmartinoftours.org.uk), constant communication and handover meetings were essential. Staff had to be on the same page about outstanding tasks to be completed, potential dangers and problems, medication orders, safety and the needs of clients at all times.
+* Helped direct 30+ children ranging from 1 to 3 years old as a Nursery Assistant at [Clive Hall Day Nursery] (http://www.daynurseries.co.uk/daynursery.cfm/searchazref/50001005CLIA), which had to be a team of at least 2 people at all times.
 
 #### Being In A Band Makes You Great At Multi-Tasking
 * I spent four years as part of an [active touring band] (http://wellwisher.bandcamp.com). This involved keeping communication with promoters and other artists to create art for our releases, working within time schedules of labels who released our music, making wholesale shirt orders, organising van hire, booking flights and a full UK tour for a band from Italy, facilitating successful performances for a band from Japan that spoke little-to-no English, and running several consistent social media platforms. 
