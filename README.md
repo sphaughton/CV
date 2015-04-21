@@ -125,5 +125,6 @@ Informed by a lifetime obsession with DIY punk counterculture, I have a restless
 
 **The Old Monk, London (October 2007 - November 2007)**
 * Bartender/Waiter
+
 **CD Warehouse, Watford (April 2006 -  September 2006)**
 * Sales Assistant
