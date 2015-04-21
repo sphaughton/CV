@@ -33,7 +33,8 @@ Informed by a lifetime obsession with DIY punk counterculture, I have a restless
       <br>Rails
       <br>AngularJS
       <br>Node.js
-    </td>Express.js
+      <br>Express.js
+    </td>
   </tr>
   <tr>
     <td><h4>Test Frameworks</h4></td>
@@ -79,21 +80,22 @@ Informed by a lifetime obsession with DIY punk counterculture, I have a restless
 * Other duties at [Banquet Records] (http://www.banquetrecords.com) involved collecting tickets and helping stage-manage the various local club nights and instore performances, handling individual Facebook event queries and writing many of the product descriptions for the website. Much of the store’s brand relies on local community and knowing the staff by name.
 
 #### Being In A Band Makes You Great At Multi-Tasking
-I spent four years as part of an [active touring band] (http://wellwisher.bandcamp.com). This involved keeping communication with promoters and other artists to create art for our releases, working within time schedules of labels who released our music, making wholesale shirt orders, organising van hire, booking flights and a full UK tour for a band from Italy, facilitating successful performances for a band from Japan that spoke little-to-no English, and running several consistent social media platforms. 
+* I spent four years as part of an [active touring band] (http://wellwisher.bandcamp.com). This involved keeping communication with promoters and other artists to create art for our releases, working within time schedules of labels who released our music, making wholesale shirt orders, organising van hire, booking flights and a full UK tour for a band from Italy, facilitating successful performances for a band from Japan that spoke little-to-no English, and running several consistent social media platforms. 
 
 ## Education
 
-#### Makers Academy - Dec 2014 - Feb 2015
+**Makers Academy, London (January 2015 - April 2015)**
+* February 2015 Cohort Graduate
 
-#### City Of Westminster College, London (2011 - 2012)
+**City Of Westminster College, London (2011 - 2012)**
 * Level 2 Business Administration NVQ
 
-#### Harrow College, London (2005 - 2007)
+**Harrow College, London (2005 - 2007)**
 * English A-Level
 * History A-Level
 
 ## Experience
-**Seanhaughton.com (September 2014 - January 2015)**
+**Seanhaughton.com, London (September 2014 - January 2015)**
 * Freelance Graphic Designer
 
 **The Aubin Cinema/Soho House, London (May 2014 - September 2014)**
