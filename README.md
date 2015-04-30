@@ -18,7 +18,7 @@ Code Examples
     <td valign="center">Social app for mobile and web to host dinner parties in the style of Airbnb.</td>
     <td valign="center">Makers Academy "Makerthon" project to order drinks at a bar via confirmation code.</td>
     <td valign="center">Rails-based replication of Yelp's functionality with extensive test coverage.</td>
-    <td valign="center">MVP of a randomised app game to associate names of new Makers Academy students with their faces.</td>
+    <td valign="center">MVP of a randomised web game to associate names of new Makers Academy students with their faces.</td>
     <td valign="center">Simple interface for a digital thermostat using JavaScript, jQuery and Jasmine.</td>
   </tr>
 </table>
@@ -38,7 +38,7 @@ Skills
 #### Proactive
 * On the course at Makers Academy, I was required to understand technologies at a quick pace and use them. I also learnt how to implement several technologies not on the course such as Image Magick and Pusher. 
 * Self-taught in Adobe Photoshop, Illustrator, and Indesign CS3 - CS6.
-* I spent four years as part of an active touring band, which required me to take the lead on several projects and constantly stay level-headed while multi-tasking. During my time as a part of this, I worked within time schedules of labels who released our music, made wholesale shirt orders, organised van hire, booked flights and a full UK tour for an Italian band, facilitated UK performances for a band from Japan that spoke little-to-no English, and ran several consistent social media platforms. 
+* Former member of an active touring band for 4 years, which required me to take the lead on several projects and constantly stay level-headed while multi-tasking. During my time as a part of this, I worked to schedule releases, design and print art, made wholesale shirt orders, organised van hire and ran several consistent social media platforms. I also booked flights and a full UK tour for an Italian band and facilitated UK performances for a group from Japan that spoke little-to-no English.
 
 Education
 ------
