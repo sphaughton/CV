@@ -16,10 +16,10 @@ Code Examples
   </tr>
   <tr>
     <td valign="center">Social app for mobile and web to host dinner parties in the style of Airbnb.</td>
-    <td valign="center">Makers Academy "Makerthon" project to order drinks at a bar via confirmation code.</td>
+    <td valign="center">Mobile app to order drinks at a bar via confirmation code.</td>
     <td valign="center">Rails-based replication of Yelp's functionality with extensive test coverage.</td>
-    <td valign="center">MVP of a randomised web game to associate names of new Makers Academy students with their faces.</td>
-    <td valign="center">Simple interface for a digital thermostat using JavaScript, jQuery and Jasmine.</td>
+    <td valign="center">MVP of a randomised web game associating names of new Makers students with their faces.</td>
+    <td valign="center">Interface for a digital thermostat using JavaScript, jQuery and Jasmine.</td>
   </tr>
 </table>
 
