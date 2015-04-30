@@ -6,7 +6,7 @@ Informed by a lifetime obsession with DIY punk counterculture, I have a restless
 
 Code Examples
 ------
-table table-layout=fixed width=100%>
+<table table-layout=fixed width=100%>
   <tr>
     <th width=20%><a href="https://github.com/Dinnr-Makers/Dinnr">Dinnr</a></th>
     <th width=20%><a href="https://github.com/BeerPromise/beer-promise">Golden Ticket</a></th>
