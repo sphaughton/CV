@@ -15,10 +15,10 @@ Code Examples
     <th width=20%><a href="https://github.com/sphaughton/ThermostatJS">Thermostat</a></th>
   </tr>
   <tr>
-    <td valign="center">Social app for mobile and web to host dinner parties in the style of Airbnb.</td>
-    <td valign="center">Mobile app to order drinks at a bar via confirmation code.</td>
+    <td valign="center">Social app for mobile and web to host dinner parties in the style of Airbnb using Rails.</td>
+    <td valign="center">Mobile Javascript app to order drinks at a bar via confirmation code.</td>
     <td valign="center">Rails-based replication of Yelp's functionality with extensive test coverage.</td>
-    <td valign="center">MVP of a randomised web game associating names of new Makers students with their faces.</td>
+    <td valign="center">Rails MVP of a randomised web game associating names of new Makers students with their faces.</td>
     <td valign="center">Interface for a digital thermostat using JavaScript, jQuery and Jasmine.</td>
   </tr>
 </table>
