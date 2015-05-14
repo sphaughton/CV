@@ -9,7 +9,6 @@ Code Examples
 <table table-layout=fixed width=100%>
   <tr>
     <th width=20%><a href="https://github.com/Dinnr-Makers/Dinnr">Dinnr</a></th>
-    <th width=20%><a href="https://github.com/BeerPromise/beer-promise">Golden Ticket</a></th>
     <th width=20%><a href="https://github.com/sphaughton/yelp_clone">Yelp Clone</a></th>
     <th width=20%><a href="https://github.com/sphaughton/name_game">Name Game</a></th>
     <th width=20%><a href="https://github.com/sphaughton/ThermostatJS">Thermostat</a></th>
