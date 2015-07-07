@@ -2,7 +2,7 @@ Sean Haughton
 ======
 Born in London, I am a full-stack web developer and April 2015 graduate of Makers Academy (a full-time immersive web development course). I am passionate about behaviour-driven development, graphic design, and the idea that these means of communication should be accessible to everyone. As an internet-obsessed 15 year old I discovered the ability to alter existing Blogspot and Myspace themes using HMTL and CSS and at 18 found myself agreeing to make HTML-based mail-outs for Banquet Records (a store and label with 10,000+ person-strong mailing lists). After leaving that position, I discovered as time passed that the urge to explore how I could take that further never really left me.
 
-Informed by a lifetime obsession with DIY punk counterculture, I have a restless need to pick up new skills outside of my comfort zone that can be used for positive change. I am also a practitioner of multiple disciplines of visual and performing art (primarily drawing, photography and music). I am currently seeking a Junior web developer position at a forward-thinking company in London, New York or Philadelphia that will allow me to grow and learn.
+Informed by a lifetime obsession with DIY punk counterculture, I have a restless need to pick up new skills outside of my comfort zone that can be used for positive change. I am also a practitioner of multiple disciplines of visual and performing art (primarily drawing, photography and music). I am currently seeking a Junior web developer position at a forward-thinking company in London.
 
 Code Examples
 ------
